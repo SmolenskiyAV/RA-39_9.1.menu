@@ -4,9 +4,8 @@
 my-app/node_modules
 my-app/.pnp
 .pnp.js
-data
-css
-App.js
+
+
 
 # testing
 my-app/coverage
